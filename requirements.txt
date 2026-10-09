@@ -1,0 +1,7 @@
+torch
+transformers
+llama-cpp-python
+numpy
+scipy
+librosa
+soundfile
